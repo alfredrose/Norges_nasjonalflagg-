@@ -1,5 +1,5 @@
 # Norges_nasjonalflagg-
-individuell oppgave 01
+# individuell oppgave 01
 include image 
 put-image(
   rectangle(600, 25, "solid", "darkblue"),
